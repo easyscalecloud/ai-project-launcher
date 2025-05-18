@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
 - [The Problem: AI Project Overload](#the-problem-ai-project-overload)
-- [The Solution: Alfred + afwf\_fts\_everything](#the-solution-alfred-afwf_fts_everything)
+- [The Solution: Alfred + afwf_fts_everything](#the-solution-alfred-afwf_fts_everything)
 - [Implementation: Extracting Project Data](#implementation-extracting-project-data)
 - [The Complete Workflow](#the-complete-workflow)
 - [The Power of Specialized AI Assistants](#the-power-of-specialized-ai-assistants)
@@ -27,7 +27,7 @@ I soon found myself managing hundreds of these projects across different account
 
 What I needed was dead simple: type a few characters, see relevant matches instantly, and launch my project with a single keystroke—regardless of which platform or account hosted it.
 
-## The Solution: Alfred + afwf\_fts\_everything
+## The Solution: Alfred + afwf_fts_everything
 
 As a long-time Mac power user, [Alfred](https://www.alfredapp.com/) has been my go-to productivity tool for years. Its workflow capabilities make it the perfect foundation for a custom launcher.
 
@@ -45,7 +45,7 @@ Let's walk through the entire implementation process:
 
 ### Step 1: Set Up the Git Repository
 
-Start by creating a Git repository with the following structure: [https://github.com/easyscalecloud/ai-project-launcher](https://github.com/easyscalecloud/ai-project-launcher).
+Start by creating a Git repository with the following structure: [easyscalecloud/ai-project-launcher](https://github.com/easyscalecloud/ai-project-launcher).
 
 - [html/](https://github.com/easyscalecloud/ai-project-launcher/tree/main/html): Store HTML containing project catalog data
 - [icon/](https://github.com/easyscalecloud/ai-project-launcher/tree/main/icon): Icons for Alfred UI
