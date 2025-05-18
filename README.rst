@@ -31,4 +31,4 @@ Requirements
 ------------------------------------------------------------------------------
 - macOS with Alfred installed (Alfred Powerpack required)
 - Python 3.9+
-- [afwf_fts_anything](https://github.com/MacHu-GWU/afwf_fts_anything-project) workflow for Alfred
+- `afwf_fts_anything <https://github.com/MacHu-GWU/afwf_fts_anything-project>`_ workflow for Alfred
