@@ -1,5 +1,7 @@
 # Supercharge AI Project Access: Building a Lightning-Fast AI Project Launcher with Alfred
 
+![cover.png](./img/cover.png)
+
 - [Overview](#overview)
 - [The Problem: AI Project Overload](#the-problem-ai-project-overload)
 - [The Solution: Alfred + afwf_fts_everything](#the-solution-alfred-afwf_fts_everything)
